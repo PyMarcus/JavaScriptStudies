@@ -1,0 +1,1 @@
+Importação e exportação de módulos javascript se dão graças ao NodeJs, um gerênciador de ambiente de execução
